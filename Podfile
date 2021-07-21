@@ -3,6 +3,6 @@
 
 target 'RongRTCFilterDemo' do
     
-  pod 'RongCloudRTC'
+  pod 'RongCloudRTC', '5.1.5'
 
 end
